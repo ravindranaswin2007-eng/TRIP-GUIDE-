@@ -1,0 +1,6 @@
+{
+  "name": "Aswin's Mumbai Travel Companion",
+  "description": "Interactive personal travel planner, luggage logistics optimizer, step-by-step transport guide, and event navigator for Mumbai trip (13-16 Oct 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
